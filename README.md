@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=notrizal&show_icons=true&locale=en&theme=onedark" alt="notrizal's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=notrizal&show_icons=true&locale=en&theme=dracula" alt="notrizal's github stats" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notrizal&layout=compact&locale=en&theme=onedark" alt="notrizal's top langs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notrizal&layout=compact&locale=en&theme=dracula" alt="notrizal's top langs" />
   </a>
 </p>
 
@@ -49,7 +49,7 @@ These are some of the technologies I use to fight my battles in the digital real
 I'm pretty active, except when a new season of my favorite show drops.
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notrizal&theme=tokyonight" alt="notrizal's summary card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notrizal&theme=dracula" alt="notrizal's summary card" />
 </p>
 
 <hr>
