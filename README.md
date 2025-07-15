@@ -20,9 +20,7 @@
 ### 👨‍💻 About Me
 
 -   🔭 I’m currently working on a backend API for an event management app, built with **Node.js, Express, Sequelize, and WebSockets**.
-
 -   🌱 Next on my learning list: **TypeScript** to enhance my JavaScript projects and exploring **CI/CD with GitHub Actions**.
-<!-- -   👯 I’m looking to collaborate on... **open-source projects**, especially tools that help developers be more productive. -->
 -   💬 Ask me about... **Node.js, Express.js, building APIs, or anything related to backend development.**
 -   📫 How to reach me: [Drop me a line here](mailto:rizalramadhan2214@gmail.com).
 -   😄 Pronouns: He/Him (or `this` if we're in a JavaScript context).
