@@ -26,7 +26,7 @@
 - 👯 I’m looking to collaborate on... projects that make my morning coffee taste even better.
 - 🤔 I’m looking for help with... understanding why my code from yesterday is giving me the silent treatment today.
 - 💬 Ask me about anything, except my browser history.
-- 📫 How to reach me: [Drop me a line here](mailto:youremail@example.com), and I'll get back to you if the notification doesn't get lost in the void.
+- 📫 How to reach me: [Drop me a line here](mailto:rizalramadhan2214@gmail.com), and I'll get back to you if the notification doesn't get lost in the void.
 - 😄 Pronouns: He/Him (or `this` if we're in a JavaScript context).
 - ⚡ Fun fact: I can turn coffee into code. Still researching how to do the reverse.
 
