@@ -10,25 +10,23 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=notrizal&show_icons=true&locale=en&theme=dracula" alt="notrizal's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=notrizal&show_icons=true&locale=en&theme=default" alt="notrizal's github stats" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notrizal&layout=compact&locale=en&theme=dracula" alt="notrizal's top langs" />
-  </a>
+
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on... a top-secret project that will (hopefully) change the world... or at least my local machine.
-- 🌱 I’m currently learning... how to perfectly center a `div` without having a mental breakdown.
-- 👯 I’m looking to collaborate on... projects that make my morning coffee taste even better.
-- 🤔 I’m looking for help with... understanding why my code from yesterday is giving me the silent treatment today.
-- 💬 Ask me about anything, except my browser history.
-- 📫 How to reach me: [Drop me a line here](mailto:rizalramadhan2214@gmail.com), and I'll get back to you if the notification doesn't get lost in the void.
-- 😄 Pronouns: He/Him (or `this` if we're in a JavaScript context).
-- ⚡ Fun fact: I can turn coffee into code. Still researching how to do the reverse.
+-   🔭 I’m currently working on a backend API for an event management app, built with **Node.js, Express, Sequelize, and WebSockets**.
+
+-   🌱 Next on my learning list: **TypeScript** to enhance my JavaScript projects and exploring **CI/CD with GitHub Actions**.
+<!-- -   👯 I’m looking to collaborate on... **open-source projects**, especially tools that help developers be more productive. -->
+-   💬 Ask me about... **Node.js, Express.js, building APIs, or anything related to backend development.**
+-   📫 How to reach me: [Drop me a line here](mailto:rizalramadhan2214@gmail.com).
+-   😄 Pronouns: He/Him (or `this` if we're in a JavaScript context).
+-   ⚡ Fun fact: I can turn coffee into code. Still researching how to do the reverse.
 
 ---
 
@@ -38,19 +36,25 @@ These are some of the technologies I use to fight my battles in the digital real
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,git,postman,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,sequelize,mysql,typescript,git,postman,vscode&perline=6" />
+  </a>
+  <br>
+  <a href="https://socket.io">
+    <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>
   </a>
 </p>
 
 ---
 
-### 📊 Activity Stats
+### 🔥 My Stats :
 
 I'm pretty active, except when a new season of my favorite show drops.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notrizal&theme=dracula" alt="notrizal's summary card" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=notrizal&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 <hr>
 
