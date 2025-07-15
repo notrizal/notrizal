@@ -13,7 +13,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=notrizal&show_icons=true&locale=en&theme=tokyonight" alt="notrizal's github stats" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notrizal&layout=compact&locale=en&theme=tokyonight" alt="notrizal's top langs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notrizal&layout=compact&locale=en&theme=onedark" alt="notrizal's top langs" />
   </a>
 </p>
 
@@ -38,31 +38,15 @@ These are some of the technologies I use to fight my battles in the digital real
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,mysql,git,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,git,postman,vscode&perline=5" />
   </a>
 </p>
-
----
-
-### 🏆 Featured Projects
-
-Some results from my long hours of meditation in front of a screen:
-
-| Project                 | Short Description                                          | Link                                            |
-| ----------------------- | ---------------------------------------------------------- | ----------------------------------------------- |
-| **🚀 Cool Project Name 1** | An app that makes life easier (and mine more complicated). | [View Repository](https://github.com/notrizal/repo-name) |
-| **🤖 Cool Project Name 2** | A bot that's almost as smart as me (but not as funny).   | [View Repository](https://github.com/notrizal/repo-name) |
-| **🌐 Cool Project Name 3** | A website that's more responsive than my friends via chat. | [View Repository](https://github.com/notrizal/repo-name) |
 
 ---
 
 ### 📊 Activity Stats
 
 I'm pretty active, except when a new season of my favorite show drops.
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=notrizal&theme=tokyonight&row=1&column=7" alt="notrizal's github trophy" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notrizal&theme=tokyonight" alt="notrizal's summary card" />
