@@ -49,7 +49,7 @@ These are some of the technologies I use to fight my battles in the digital real
 I'm pretty active, except when a new season of my favorite show drops.
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=notrizal&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=notrizal&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
